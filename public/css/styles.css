@@ -1,0 +1,62 @@
+body {
+   background-color: blue;
+   color: white;
+   font-family: monospace;
+}
+
+
+#current {
+   font-family: 'Liu Jian Mao Cao', cursive;
+   border-bottom: 3px black dashed;
+   font-size: 2.5em;
+}
+
+footer {
+   font-size: 1em;
+   color: gray;
+}
+
+h1 {
+   font-family: 'Liu Jian Mao Cao', cursive;
+   font-size: 4em;
+   margin-bottom: 0px;
+}
+
+h2 {
+   font-family: cursive;
+
+}
+
+header,
+main,
+nav,
+footer {
+   text-align: center;
+}
+
+img {
+   border-color: white;
+   border-style: groove;
+   border-width: 4px;
+}
+
+main {
+   justify-content: center;
+}
+
+nav a {
+   padding: 25px;
+   padding-bottom: 10px;
+   font-size: 2em;
+   text-decoration: none;
+   font-family: monospace;
+   color: white;
+}
+
+nav a:hover {
+   border-bottom: 2px white dotted;
+}
+
+p {
+   font-size: 1.2em;
+}
