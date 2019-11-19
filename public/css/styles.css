@@ -5,7 +5,7 @@ body {
 }
 
 
-#current {
+.current {
    font-family: 'Liu Jian Mao Cao', cursive;
    border-bottom: 3px black dashed;
    font-size: 2.5em;
